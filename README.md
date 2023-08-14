@@ -6,11 +6,11 @@ Purpose of the bash script is to create the website infrastructure on a GNU/Linu
 
 This script assumes you either have root, sudo access to make changes /var/www/ directory
 
-usage:
+# using sudo usage:
 
-** using sudo
 username@machinename:/home/username$ makewp-website.sh 
 
-** using root
+# using root usage:
+
 root@machinename:/root# makewp-website.sh 
 
